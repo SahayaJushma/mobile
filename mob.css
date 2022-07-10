@@ -1,0 +1,150 @@
+@media(min-width: 810px){
+    .Box1
+    {
+        height: 50px;
+        width:100%;
+        background: violet;
+        margin-top: 0px;
+        margin-bottom:0px;
+        margin-right: 0px;
+        margin-left:0px;
+        display:inline-block;
+    
+    }
+    .Box2
+    {
+        height: 50px;
+        width:100%;
+        background: yellowgreen;
+        margin-top: 0px;
+        margin-right:0px;
+        margin-left:0px;
+        margin-bottom:0px;
+        display:inline-block;
+    }
+    .Box3
+    {
+        height:75px;
+        width:100%;
+        background:blue;
+        margin-top:5px;
+        margin-left:0px;
+        margin-right: 0px;
+        margin-bottom:5px;
+        display:inline-block;
+    }
+    .Box4
+    {
+        height:50px;
+        width:100%;
+        margin-left:0px;
+        margin-right:0px;
+        margin-top:5px;
+        margin-bottom:5px;
+        background:gold;
+        display:inline-block;
+
+    }
+    .Box5
+    {
+    height:50px;
+    width:100%;
+    margin-left:0px;
+    margin-right:0px;
+    margin-top:5px;
+    margin-bottom:5px;
+    background:red;
+    display:inline-block;
+    }
+    .Box6
+    {
+    height:50px;
+    width:100%;
+    margin-left:0px;
+    margin-right:0px;
+    margin-top:5px;
+    margin-bottom:5px;
+    background:turquoise;
+    display:inline-block;
+
+    }
+    .Box7
+    {
+        height:50px;
+        width:100%;
+        margin-left:0px;
+        margin-right:0px;
+        margin-bottom:5px;
+        margin-top:5px;
+        background:deeppink;
+        display:inline-block;
+    }
+    .Box8
+    {
+        height:50px;
+        width:100%;
+        margin-left:0px;
+        margin-right:0px;
+        margin-bottom:5px;
+        margin-top:5px;
+        background:darkgreen;
+        display:inline-block;
+    
+    }
+    .Box9
+    {
+        height:25px;
+        width:100%;
+        margin-left:0px;
+        margin-right:0px;
+        margin-bottom:5px;
+        margin-top:5px;
+        background:salmon;
+        display:inline-block;
+    }
+    .Box10
+    {
+        height:25px;
+        width:100%;
+        margin-left:0px;
+        margin-right:0px;
+        margin-bottom:5px;
+        margin-top:5px;
+        background:lawngreen;
+        display:inline-block;
+    }
+    .Box11
+    {
+        height:25px;
+        width:100%;
+        margin-left:0px;
+        margin-right:0px;
+        margin-bottom:5px;
+        margin-top:5px;
+        background:plum;
+        display:inline-block;
+    }
+    .Box12
+    {
+        height:25px;
+        width:100%;
+        margin-left:0px;
+        margin-right:0px;
+        margin-bottom:5px;
+        margin-top:5px;
+        background:darkturquoise;
+        display:inline-block;
+    }
+    .Box13
+    {
+        height:20px;
+        width:100%;
+        margin-left:0px;
+        margin-right:0px;
+        margin-bottom:5px;
+        margin-top:5px;
+        background:crimson;
+        display:inline-block;
+
+    }
+}
